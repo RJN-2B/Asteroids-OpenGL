@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{6887ED0F-77CF-3D06-A5D0-3540D3651599}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>asteroids</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">asteroids.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">asteroids</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">asteroids.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">asteroids</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">asteroids.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">asteroids</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">asteroids.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">asteroids</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>glfw-3.2\src\Debug\glfw3.lib;Debug\glad.lib;glfw-3.2\src\Debug\glfw3.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/Debug/asteroids.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/Debug/asteroids.pdb</ProgramDataBaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>glfw-3.2\src\Release\glfw3.lib;Release\glad.lib;glfw-3.2\src\Release\glfw3.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/Release/asteroids.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/Release/asteroids.pdb</ProgramDataBaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>glfw-3.2\src\MinSizeRel\glfw3.lib;MinSizeRel\glad.lib;glfw-3.2\src\MinSizeRel\glfw3.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/MinSizeRel/asteroids.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/MinSizeRel/asteroids.pdb</ProgramDataBaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\deps;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders;E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\glfw-3.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>glfw-3.2\src\RelWithDebInfo\glfw3.lib;RelWithDebInfo\glad.lib;glfw-3.2\src\RelWithDebInfo\glfw3.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/RelWithDebInfo/asteroids.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/School/Tulane/Junior/Fall/Graphics/UPLOADING THIS RT/Asteroids OpenGL/Asteroids-OpenGL/build/RelWithDebInfo/asteroids.pdb</ProgramDataBaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common.h" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\Angel.h" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\CheckError.h" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\mat.h" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\vec.h" />
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\shader.cpp" />
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\main.cpp" />
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Ship.cpp" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Ship.h" />
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Asteroid.cpp" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Asteroid.h" />
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Bullet.h" />
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Bullet.cpp" />
+    <None Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\fshader_Ship.glsl" />
+    <None Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\vshader_Ship.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\ZERO_CHECK.vcxproj">
+      <Project>{0826956F-0A32-30D3-88C9-85E106F55B3E}</Project>
+      <Name>ZERO_CHECK</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\glad.vcxproj">
+      <Project>{E9A475C7-27FE-3EFA-980D-1092AB471B2E}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\glfw-3.2\src\glfw.vcxproj">
+      <Project>{119E9740-2E73-3DB9-9A7D-1AC445C35786}</Project>
+      <Name>glfw</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

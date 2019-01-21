@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\CMakeFiles\d041febded431e734ae89c36bbb1fa98\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D378D57D-5802-37B4-9595-8811A8D99958}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

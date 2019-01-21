@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Ship.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\Angel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\CheckError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\utils\vec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Ship.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Asteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\source\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\fshader_Ship.glsl" />
+    <None Include="E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\shaders\vshader_Ship.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C0A3FAC5-A3E7-321A-85F6-91A5A300374B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{40DB19B8-834C-307B-B706-81CCD72C8085}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

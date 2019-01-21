@@ -1,0 +1,259 @@
+﻿  shader.cpp
+  main.cpp
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(710): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(736): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\installations\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(149): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(151): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(164): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(167): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\main.cpp(183): warning C4305: 'argument': truncation from 'int' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\main.cpp(267): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ship.cpp
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(710): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(736): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\installations\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(149): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(151): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(164): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(167): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(59): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(68): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(72): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(76): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(80): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(86): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Asteroid.cpp
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(710): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(736): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\installations\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(149): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(151): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(164): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(167): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(10): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(10): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(53): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(58): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(63): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(67): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(188): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Bullet.cpp
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(710): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(736): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\mat.h(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\utils\angel.h(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\installations\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.h(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.h(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(149): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(151): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(164): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.h(167): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.cpp(108): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\bullet.cpp(121): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  Generating Code...
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(308): warning C4172: returning address of local variable or temporary: vertY
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(319): warning C4172: returning address of local variable or temporary: vert
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\asteroid.cpp(295): warning C4172: returning address of local variable or temporary: vertx
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(267): warning C4172: returning address of local variable or temporary: vertx
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(283): warning C4172: returning address of local variable or temporary: vert
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(306): warning C4172: returning address of local variable or temporary: vertY
+e:\school\tulane\junior\fall\graphics\uploading this rt\asteroids opengl\asteroids-opengl\source\ship.cpp(317): warning C4172: returning address of local variable or temporary: vert
+  asteroids.vcxproj -> E:\School\Tulane\Junior\Fall\Graphics\UPLOADING THIS RT\Asteroids OpenGL\Asteroids-OpenGL\build\Debug\asteroids.exe
